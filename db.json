@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "qE2JGSJ",
+      "author": "EOFHAEFIWI",
+      "id": 2
+    },
+    {
+      "title": "sgrgrs",
+      "author": "gwrtwrgs",
+      "id": 4
+    },
+    {
+      "title": "sgrgrs",
+      "author": "gwrtwrgs",
+      "id": 5
+    },
+    {
+      "title": "sgrgrs",
+      "author": "gwrtwrgs",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
